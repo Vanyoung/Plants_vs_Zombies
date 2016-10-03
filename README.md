@@ -1,5 +1,4 @@
 # Plants_vs_Zombies(Shooting Edition)
-
 ## Language and moudle
 - Python 2.7
 - pygame-1.9.2b1-cp27-cp27m-win_amd64
@@ -10,7 +9,7 @@
 - Press the ENTER to start
 - Press the ESC to quit
 
-## Rule
+## Rules
 - There are two versions of zombies
 - Zombie1 is twice the speed of zombie2
 - 50 zombies in total
@@ -33,8 +32,8 @@
 - 鼠标左键或空格键射击
 - Enter键开始游戏
 - ESC键退出游戏
-## 游戏规则
 
+## 游戏规则
 - 有僵尸1，僵尸2 两种僵尸
 - 僵尸2的移动速度是僵尸1的一半
 - 总共有50只僵尸（可下载源码自行调整）
