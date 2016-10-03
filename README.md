@@ -1,4 +1,4 @@
-# Plants_vs_Zombies(Shooting Edition)
+# Plants_vs_Zombies(Shooting Version)
 ## Language and moudle
 - Python 2.7
 - pygame-1.9.2b1-cp27-cp27m-win_amd64
