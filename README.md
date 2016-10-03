@@ -18,7 +18,7 @@
 
 ## Environment variable
 - Requires a python environment
-- Requires a pygame module
+- Requires pygame module
 
 
 # 植物大战僵尸（射击版）
