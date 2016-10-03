@@ -21,7 +21,7 @@
 - Requires a pygame module
 
 
-# 植物大战僵尸（街机版）
+# 植物大战僵尸（射击版）
 
 ## 使用语言及模块版本
 - Python 2.7
